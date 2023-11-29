@@ -1,0 +1,24 @@
+
+body{
+    margin:0;
+	padding:0;
+	 background-image: url("../images/im1.jpg");
+     
+	 font-family:'arial';
+     
+
+}
+.first{
+    width:300px;
+	height:auto;
+	
+	padding:20px;
+	border-radius:15px;
+	margin-top:150px;
+	margin-left:100px;
+	
+	border:2px solid ;
+	border-color:#fff;
+	text-align:center;
+}
+}
